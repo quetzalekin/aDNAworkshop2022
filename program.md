@@ -37,8 +37,8 @@
 **Yemek Arası**	
 
 **13:00-13:50**	Admixture	(*Dilek*) \
-**14:00-14:50** Selection	(*Ekin/Rabia*) \
-**15:00-15.50**	Selection	(*Ekin/Rabia*) 
+**14:00-14:50** Selection	(*Melih/Rabia*) \
+**15:00-15.50**	Selection	(*Melih/Rabia*) 
 
 
 ## 10.02.2022 Perşembe
